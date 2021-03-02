@@ -1,0 +1,5 @@
+@font-face {
+    font-family: 'The Historia';
+    src: url('./fonts/The-Historia-Reguler.woff') format('woff'), 
+        url('./fonts/The\ Historia\ Reguler.ttf') format('truetype');
+}
